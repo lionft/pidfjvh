@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x84fBA19498644D6cB032cd8bc45B5ab2A427fA87",
+    "OWNER_ADDRESS": "0x908e7E155d71233Ab60e8c4dc28B6E900045eBa9",
+
+  "SCAN_LINK": "https://etherscan.io/address/0x84fBA19498644D6cB032cd8bc45B5ab2A427fA87",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "MonalisaVerse",
+  "SYMBOL": "MLV",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 40000000000000000,
+  "COST1": 50000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Monalisaverse",
+  "SHOW_BACKGROUND": true
+}
